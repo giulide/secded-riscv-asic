@@ -78,5 +78,8 @@
 /openroad/out
 /openroad/save
 #/openroad/src
+#yosys
 /yosys/reports
-#/yosys/out
+/yosys/out
+#vsim
+/vsim/*.vcd
